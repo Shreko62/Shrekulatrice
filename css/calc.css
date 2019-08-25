@@ -8,7 +8,7 @@
 
 body {
 
-    font-family: 'Shrek';
+    
     color: green;
     
   }
@@ -121,5 +121,6 @@ audio{
 
 h1{
     margin-left: 35.5%;
-    text-shadow: 2px 2px maroon
+    text-shadow: 2px 2px maroon;
+    font-family: Shrek;
 }
